@@ -1,3 +1,1 @@
-# Virtual ZLA ARTCC
-
-ZLA is a graph. More coming soon.
+public readme for ZLA org
